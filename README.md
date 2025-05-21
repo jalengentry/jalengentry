@@ -6,9 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jalengentry/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jalengentry/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jalengentry/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jalengentry/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jalengentry/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
